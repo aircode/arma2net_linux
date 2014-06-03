@@ -2,7 +2,7 @@ arma2net_linux
 ==============
 
 sources from ScottNZ modified to compile it in monodevelop 4.0
-sources from ScottNZ modified to compile it in monodevelop 4.0 Distribution; Linux Mint Qiana "Cinnamon" arch; amd64
+Distribution; Linux Mint Qiana "Cinnamon" arch; amd64
 
 Mono JIT compiler version 3.2.8 (Debian 3.2.8+dfsg-4ubuntu1) Copyright (C) 2002-2014 Novell, Inc, Xamarin Inc and Contributors. www.mono-project.com TLS: __thread SIGSEGV: altstack Notifications: epoll Architecture: amd64 Disabled: none Misc: softdebug LLVM: supported, not enabled. GC: sgen
 
